@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{1}
+O.~Ayala L.F. Rossi L.-P.~Wang C.E.~Torres, H.~Parishani.
+\newblock Analysis and parallel implementation of a forced n-body problem.
+\newblock {\em Journal of Computational Physics}, (245):256--257, 2013.
+
+\bibitem{2}
+Higham Davies.
+\newblock Computing f (a) b for matrix functions f.
+\newblock {\em School of Mathematics, University of Manchester, Manchester, M13
+  9PL, England}, pages 6--10, 2005.
+
+\end{thebibliography}
